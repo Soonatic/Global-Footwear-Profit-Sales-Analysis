@@ -79,6 +79,8 @@ No blank values were found in the inspected raw or cleaned fields, and the raw o
 - Renamed transactional fields into business-friendly analytical names
 - Preserved the underlying numerical values for analysis
 
+- ![image alt](https://github.com/Soonatic/Global-Footwear-Profit-Sales-Analysis/blob/e64a129e3edc0757c2a4f428cbe667b2a16b786d/Screenshot%202026-09-25%20193302.png)
+
 ### Data-quality summary
 
 | Quality Check | Result |
