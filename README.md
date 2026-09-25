@@ -177,6 +177,8 @@ Users can filter the analysis by:
 - Discount Tier
 - Year
 
+![image alt](https://github.com/Soonatic/Global-Footwear-Profit-Sales-Analysis/blob/2d7e8b0b59f9dc41d026ad4f617bbaf3f27b19fb/Screenshot%202026-09-25%20161034.png)
+
 ### Dashboard sections
 
 | Section | Main Analysis |
