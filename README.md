@@ -40,6 +40,8 @@ The objective is to convert the transactional data into an analysis-ready model 
 
 ### Client Requirements
 
+![image alt](https://github.com/Soonatic/Global-Footwear-Profit-Sales-Analysis/blob/52471bb151fafeb3035ec61a8668c86bf517e2f3/Screenshot%202026-09-25%20193201.png)
+
 | Requirement | Deliverable |
 |---|---|
 | **Data Cleaning** | Standardize field names, dates, numeric fields, discount percentages, and analytical measures. |
