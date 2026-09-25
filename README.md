@@ -150,6 +150,8 @@ The analytical model supports slicing the business across time, brands, products
 
 The interactive HTML dashboard is titled **Global Footwear Sales Analytics** and is designed as a multi-section analytical application. fileciteturn0file0L1-L5
 
+![image alt](https://github.com/Soonatic/Global-Footwear-Profit-Sales-Analysis/blob/49e8257b3f2ed7085f682331743cbc9c7839de5f/Screenshot%202026-09-25%20160917.png)
+
 ### Dashboard capabilities
 
 - KPI cards
