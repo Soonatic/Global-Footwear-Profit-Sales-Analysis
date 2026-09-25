@@ -206,6 +206,8 @@ The cleaned dataset contains:
 - Average order value of approximately **$302.71**
 - Average customer rating of approximately **4.00 / 5**
 
+- ![image alt](https://github.com/Soonatic/Global-Footwear-Profit-Sales-Analysis/blob/a5b1a45fc032f6ce9a712c264d3a1b0f0df55315/Screenshot%202026-09-25%20161103.png)
+
 ### Brand Performance
 
 The six brands are:
